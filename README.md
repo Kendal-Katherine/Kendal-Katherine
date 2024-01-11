@@ -66,7 +66,7 @@
   <a href="https://www.linkedin.com/in/kendal-katherine-correia/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
-  <a href="mailto:kendal.katherine3@.com" target="_blank" style="text-decoration: none">
+  <a href="mailto:kendal.katherine3@gmail.com" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo"/>
   </a>
 </div>
